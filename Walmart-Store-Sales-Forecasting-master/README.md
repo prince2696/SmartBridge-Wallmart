@@ -94,13 +94,13 @@ Just follow 3 simple steps :
 
 ![](https://github.com/vicky60629/Walmart-Store-Sales-Forecasting/blob/master/results/2020-06-16%2020_14_05-Settings.png)<br>
 
-**If you face any problem :** email me at *vg60629@gmail.com*
+**If you face any problem :** email me at *princeranjan2546@gmail.com*
 
 ### LICENSE
 
 [MIT License](https://github.com/vicky60629/Walmart-Store-Sales-Forecasting/blob/master/LICENSE)
 
-Copyright (c) 2020 Vicky Gupta
+Copyright (c) 2023 Prince Ranjan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
